@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2020-11-09 12:25+0100\n"
+"PO-Revision-Date: 2020-11-09 12:39+0100\n"
 "Last-Translator: Elegant Themes\n"
 "Language-Team: Elegant Themes\n"
 "Language: de\n"
@@ -4892,7 +4892,7 @@ msgstr "Geänderte Styles anzeigen"
 #: module/AccordionItem.php:23 module/AccordionItem.php:130 module/Toggle.php:5
 #: module/Toggle.php:26
 msgid "Toggle"
-msgstr "Umschalter"
+msgstr "Tabs / Toggle (ausklappbarer Inhalt)"
 
 #: frontend-builder/helpers.php:1582 module/Tabs.php:10 module/Tabs.php:46
 #: module/Tabs.php:83 module/TabsItem.php:5 module/TabsItem.php:45 module/TabsItem.php:168
@@ -5644,7 +5644,7 @@ msgstr "Deaktivierte Module mit  50% Deckkraft anzeigen"
 
 #: frontend-builder/helpers.php:1904
 msgid "Group Settings Into Closed Toggles"
-msgstr "Gruppeneinstellungen in geschlossenen Toggles"
+msgstr "Gruppeneinstellungen in geschlossenen Tabs / Toggles (ausklappbarem Inhalt)"
 
 #: frontend-builder/helpers.php:1905
 msgid "Add Placeholder Content To New Modules"
@@ -7685,7 +7685,7 @@ msgstr ""
 
 #: frontend-builder/i18n/theme-builder.php:88
 msgid "Toggled layout visibility"
-msgstr "Layout-Sichtbarkeit umgeschaltet"
+msgstr "Layout-Sichtbarkeit von verborgenen Elementen"
 
 #: frontend-builder/i18n/theme-builder.php:89
 msgid "Unassigned"
@@ -8729,7 +8729,7 @@ msgstr "Element Sperren"
 
 #: functions.php:8093
 msgid "Toggle Divi Builder"
-msgstr "Toggle-Divi-Generator"
+msgstr "Divi-Builder ein- oder ausschalten"
 
 #: functions.php:8099
 msgid "Use Visual Builder"
@@ -9234,7 +9234,7 @@ msgstr "Verlassen und zum Backend-Erbauer wechseln"
 
 #: functions.php:9808
 msgid "Toggle Settings Bar"
-msgstr "Einstellungs-Leiste umschalten"
+msgstr "Einstellungs-Leiste ein- oder ausschalten"
 
 #: functions.php:9815
 msgid "Open Page Settings"
@@ -9546,19 +9546,19 @@ msgstr "Geschlossener Titel"
 
 #: module/Accordion.php:113 module/AccordionItem.php:133 module/Toggle.php:135
 msgid "Open Toggle"
-msgstr "Toggle öffnen"
+msgstr "Tabs / Toggle öffnen"
 
 #: module/Accordion.php:117 module/AccordionItem.php:138 module/Toggle.php:140
 msgid "Toggle Title"
-msgstr "Toggletitel"
+msgstr "Titel des Tabs / Toggles (ausklappbarer Inhalt Modul)"
 
 #: module/Accordion.php:121 module/AccordionItem.php:142 module/Toggle.php:144
 msgid "Toggle Icon"
-msgstr "Toggleicon"
+msgstr "Icon des Tabs / Toggles (ausklappbarer Inhalt)"
 
 #: module/Accordion.php:125 module/AccordionItem.php:146 module/Toggle.php:148
 msgid "Toggle Content"
-msgstr "Toggleinhalt"
+msgstr "Inhalt des Tabs / Toggles (ausklappbarer Inhalt)"
 
 #: module/Accordion.php:133 module/AccordionItem.php:154
 msgid "An introduction to the Accordion module"
@@ -9573,21 +9573,22 @@ msgid ""
 "You can pick unique text colors for toggle titles when they are open and closed. Choose "
 "the open state title color here."
 msgstr ""
-"Sie können eindeutige Textfarben für die Umschalttitel auswählen, wenn diese geöffnet "
-"und geschlossen sind. Wählen Sie hier die Titelfarbe für den geöffneten Zustand."
+"Sie können eindeutige Textfarben für die Titel des Tabs / Toggles (ausklappbarer Inhalt) "
+"auswählen, wenn diese geöffnet und geschlossen sind. Wählen Sie hier die Titelfarbe für "
+"den geöffneten Zustand."
 
 #: module/Accordion.php:151 module/AccordionItem.php:192 module/Toggle.php:206
 msgid "Open Toggle Background Color"
-msgstr "Hintergrundfarbe für öffenen Toggle"
+msgstr "Hintergrundfarbe für geöffneten Tab / Toggle (ausklappbarer Inhalt)"
 
 #: module/Accordion.php:152 module/AccordionItem.php:193 module/Toggle.php:207
 msgid ""
 "You can pick unique background colors for toggles when they are in their open and closed "
 "states. Choose the open state background color here."
 msgstr ""
-"Sie können eindeutige Hintergrundfarben für die Umschaltung auswählen, wenn sie sich in "
-"ihrem offenen und geschlossenen Zustand befinden. Wählen Sie hier die Hintergrundfarbe "
-"für den offenen Zustand."
+"Wähle eindeutige Hintergrundfarben für das Tabs / Toggles Modul (ausklappbarer Inhalt), "
+"abhängig davon, ob es sich im geöffneten / geschlossenen Zustand befindet. Hier kann die "
+"Hintergrundfarbe für den geöffneten Zustand festgelegt werden."
 
 #: module/Accordion.php:161 module/AccordionItem.php:202 module/Toggle.php:216
 msgid "Closed Title Text Color"
@@ -9598,21 +9599,22 @@ msgid ""
 "You can pick unique text colors for toggle titles when they are open and closed. Choose "
 "the closed state title color here."
 msgstr ""
-"Sie können eindeutige Textfarben für die Umschalttitel auswählen, wenn diese geöffnet "
-"und geschlossen sind. Wählen Sie hier die Titelfarbe für den geschlossenen Zustand."
+"Sie können eindeutige Textfarben für die Titel von Tabs / Toggles (ausklappbarer Inhalt) "
+"vergeben, abhängig davon, ob diese geöffnet oder geschlossen sind. Bestimme hier die "
+"Titelfarbe für den geschlossenen Zustand."
 
 #: module/Accordion.php:171 module/AccordionItem.php:212 module/Toggle.php:226
 msgid "Closed Toggle Background Color"
-msgstr "Hintergrundfarbe für geschlossenen Toggle"
+msgstr "Hintergrundfarbe für geschlossenen Tabs / Toggle (ausklappbarer Inhalt)"
 
 #: module/Accordion.php:172 module/AccordionItem.php:213 module/Toggle.php:227
 msgid ""
 "You can pick unique background colors for toggles when they are in their open and closed "
 "states. Choose the closed state background color here."
 msgstr ""
-"Sie können eindeutige Hintergrundfarben für die Umschaltung auswählen, wenn sie sich in "
-"ihrem offenen und geschlossenen Zustand befinden. Wählen Sie hier die Hintergrundfarbe "
-"für den geschlossenen Zustand."
+"Sie können eindeutige Hintergrundfarben für die Tabs / Toggles (ausklappbarer Inhalt) "
+"bestimmen, abhängig davon, ob sie sich im geöffneten / geschlossenen Zustand befinden. "
+"Lege hier die Hintergrundfarbe für den geschlossenen Zustand fest."
 
 #: module/Accordion.php:181 module/AccordionItem.php:222 module/Blurb.php:275
 #: module/SocialMediaFollow.php:168 module/SocialMediaFollowItem.php:247
@@ -9623,7 +9625,8 @@ msgstr "Icon-Farbe"
 #: module/Accordion.php:182 module/AccordionItem.php:223 module/Toggle.php:237
 msgid "Here you can define a custom color for the toggle icon."
 msgstr ""
-"Hier können Sie eine benutzerdefinierte Farbe für das Symbol zum Umschalten festlegen."
+"Hier kann eine benutzerdefinierte Farbe für das Icon des Tabs / Toggles (ausklappbarer "
+"Inhalt) festgelegt werden."
 
 #: module/Accordion.php:191 module/AccordionItem.php:232 module/Blurb.php:430
 #: module/TeamMember.php:275
@@ -9662,12 +9665,13 @@ msgstr "Neuen Artikel hinzufügen"
 
 #: module/AccordionItem.php:48
 msgid "Closed Toggle"
-msgstr "Geschlossener Toggle"
+msgstr "Geschlossener Tabs / Toggle (ausklappbarer Inhalt)"
 
 #: module/AccordionItem.php:165 module/Toggle.php:167
 msgid "The title will appear above the content and when the toggle is closed."
 msgstr ""
-"Der Umschalter-Titel erscheint über dem Inhalt und wenn der Umschalter geschlossen wird."
+"Der Titel erscheint als Platzhalter für das geschlossene Tab / Toggles (ausklappbarer "
+"Inhalt) sowie nach Öffnen des Tabs (der Modul-Inhalte)."
 
 #: module/Audio.php:6
 msgid "Audios"
@@ -14139,7 +14143,7 @@ msgstr "Eine Einführung in das Textmodul"
 
 #: module/Toggle.php:6
 msgid "Toggles"
-msgstr "Umschalter (Toogle)"
+msgstr "Tabs / Toggle (ausklappbarer Inhalt)"
 
 #: module/Toggle.php:16 module/Toggle.php:174
 msgid "State"
@@ -14152,7 +14156,8 @@ msgstr "Eine Einführung in das Toggle-Modul"
 #: module/Toggle.php:183
 msgid "Choose whether or not this toggle should start in an open or closed state."
 msgstr ""
-"Auswahl, ob dieser Umschalter in offenem oder geschlossenem Zustand gestartet wird."
+"Wähle, ob der Inhalt des ausklappbaren Moduls zu Beginn sichtbar oder verborgen sein "
+"soll."
 
 #: module/Video.php:6 module/VideoSliderItem.php:6
 msgid "Videos"
