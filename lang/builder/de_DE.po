@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2020-11-09 11:50+0100\n"
+"PO-Revision-Date: 2020-11-09 12:25+0100\n"
 "Last-Translator: Elegant Themes\n"
 "Language-Team: Elegant Themes\n"
 "Language: de\n"
@@ -4262,7 +4262,7 @@ msgstr "Backup von %s"
 
 #: frontend-builder/helpers.php:616
 msgid "Modified Styles"
-msgstr "Geänderte Modul-Stile anzeigen"
+msgstr "Geänderte Styles anzeigen"
 
 #: frontend-builder/helpers.php:617
 msgid "Responsive Styles/Content"
