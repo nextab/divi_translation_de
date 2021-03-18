@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-03-18 12:07+0100\n"
+"PO-Revision-Date: 2021-03-18 12:17+0100\n"
 "Last-Translator: Elegant Themes\n"
 "Language-Team: Elegant Themes\n"
 "Language: de\n"
@@ -5303,7 +5303,7 @@ msgstr "Mit dem Aufbau beginnen"
 
 #: frontend-builder/helpers.php:1750
 msgid "Custom Fonts"
-msgstr "Benutzerdefinierte Breite"
+msgstr "Benutzerdefinierte Schriften"
 
 #: frontend-builder/helpers.php:1753
 msgid "(no title)"
@@ -9507,7 +9507,9 @@ msgstr "Hier können Sie die Spaltenstruktur für diese Zeile auswählen."
 
 #: main-structure-elements.php:1331 main-structure-elements.php:1793
 msgid "Enable this option to define custom gutter width for this row."
-msgstr "Aktivieren Sie diese option, um benutzerdefinierte Breite Rinne für diese Zeile."
+msgstr ""
+"Aktivieren Sie diese Option, um eine benutzerdefinierte Breite für diese Zeile zu "
+"definieren."
 
 #: main-structure-elements.php:1347 main-structure-elements.php:1809
 msgid "Adjust the spacing between each column in this row."
@@ -13467,11 +13469,11 @@ msgstr "Auswahl, ob die URL in einem neuen Fenster geöffnet werden soll oder ni
 
 #: module/Signup.php:590
 msgid "Email Fullwidth"
-msgstr "Seite Vollbreite"
+msgstr "E-Mail Feld über volle Breite"
 
 #: module/Signup.php:604
 msgid "Use Custom Fields"
-msgstr "Benutzerdefinierte Breite verwenden"
+msgstr "Benutzerdefinierte Felder verwenden"
 
 #: module/Signup.php:618
 msgid ""
