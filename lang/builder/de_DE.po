@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2021-02-22 13:38+0100\n"
+"PO-Revision-Date: 2021-03-18 12:07+0100\n"
 "Last-Translator: Elegant Themes\n"
 "Language-Team: Elegant Themes\n"
 "Language: de\n"
@@ -13275,11 +13275,11 @@ msgstr "E-Mail-Optin"
 
 #: module/Signup.php:27
 msgid "Email Optins"
-msgstr "Email Optins"
+msgstr "E-Mail Optins"
 
 #: module/Signup.php:31 module/SignupItem.php:14
 msgid "Custom Field"
-msgstr "Benutzerdefinierte Breite"
+msgstr "Benutzerdefinierte Felder"
 
 #: module/Signup.php:46
 msgid "Email Account"
@@ -13287,7 +13287,7 @@ msgstr "E-Mail-Account"
 
 #: module/Signup.php:48
 msgid "Success Action"
-msgstr "Sektion"
+msgstr "Erfolgsaktion nach Formular-Absendung"
 
 #: module/Signup.php:63
 msgid "Privacy"
@@ -13295,31 +13295,31 @@ msgstr "Privatsphäre"
 
 #: module/Signup.php:98
 msgid "Result Message"
-msgstr "Erfolgsmeldung"
+msgstr "Ergebnismeldung"
 
 #: module/Signup.php:239
 msgid "Opt-in Title"
-msgstr "Titel bei Preisen"
+msgstr "Titel des Optins"
 
 #: module/Signup.php:243
 msgid "Opt-in Description"
-msgstr "Login-Beschreibung"
+msgstr "Beschreibung des Optins"
 
 #: module/Signup.php:247
 msgid "Opt-in Form"
-msgstr "Login-Formular"
+msgstr "Optin-Formular"
 
 #: module/Signup.php:251
 msgid "Opt-in Form Fields"
-msgstr "Formularfelder"
+msgstr "Formularfelder des Optins"
 
 #: module/Signup.php:255
 msgid "Subscribe Button"
-msgstr "Einreichen-Button"
+msgstr "Anmelde-Button"
 
 #: module/Signup.php:264
 msgid "An introduction to the Email Optin module"
-msgstr "Eine Einführung in das Email Optin-Modul"
+msgstr "Eine Einführung in das E-Mail-Optin-Modul"
 
 #: module/Signup.php:281
 msgid "Email Provider Account Setup Documentation"
@@ -13328,7 +13328,7 @@ msgstr "Dokumentation zur Einrichtung des E-Mail-Provider-Kontos"
 #: module/Signup.php:309 module/SocialMediaFollowItem.php:220
 #: module/type/WithSpamProtection.php:66
 msgid "Account Name"
-msgstr "Account-Namen"
+msgstr "Account-Name"
 
 #: module/Signup.php:312
 msgid "A name to associate with the account when displayed in the List select field."
@@ -13498,15 +13498,15 @@ msgstr ""
 
 #: module/Signup.php:640
 msgid "Action"
-msgstr "Sektion"
+msgstr "Aktion"
 
 #: module/Signup.php:644
 msgid "Display a message."
-msgstr "Captcha anzeigen"
+msgstr "Erfolgsnachricht anzeigen."
 
 #: module/Signup.php:645
 msgid "Redirect to a custom URL."
-msgstr "Redirect-URL"
+msgstr "Weiterleitung auf eine benutzerdefinierte URL."
 
 #: module/Signup.php:649
 msgid ""
@@ -13526,11 +13526,12 @@ msgstr ""
 
 #: module/Signup.php:670
 msgid "Site visitors who subscribe to your list will be redirected to this URL."
-msgstr "Site-Besucher, die Ihre Liste abonnieren, werden zu dieser URL weitergeleitet."
+msgstr ""
+"Webseiten-Besucher, die Ihre Liste abonnieren, werden zu dieser URL weitergeleitet."
 
 #: module/Signup.php:673
 msgid "Redirect URL Query"
-msgstr "Redirect-URL"
+msgstr "Adresse der Danke-Seite"
 
 #: module/Signup.php:680
 msgid "IP Address"
